@@ -1,0 +1,11 @@
+{
+  "name": "screencast_client",
+  "version": "1.0.0",
+  "description": "screencast for the client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "muhammad-bilal-7896",
+  "license": "ISC"
+}
