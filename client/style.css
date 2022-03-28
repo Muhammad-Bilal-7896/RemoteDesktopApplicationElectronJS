@@ -21,19 +21,15 @@
     text-align: center;
 }
 
-.container {
-    display: grid;
-}
+.container { display: grid; }
 
 .btn {
     border: 0;
     background: #4148ae;
     color: white;
     padding: 4px;
-    font-size: 18px;
+    font-size: 16px;
     position: center;
 }
 
-#stop {
-    display: none;
-}
+#stop {display: none;}

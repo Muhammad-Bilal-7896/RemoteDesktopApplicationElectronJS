@@ -1,14 +1,15 @@
 {
-  "name": "screen-sharing-server",
+  "name": "codeboard-screencast-server",
   "version": "1.0.0",
-  "description": "The server side app for screensharing app",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "#screenshare"
-  ],
-  "author": "muhammad-bilal-7896",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  }
 }
