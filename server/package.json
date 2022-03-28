@@ -1,0 +1,14 @@
+{
+  "name": "screen-sharing-server",
+  "version": "1.0.0",
+  "description": "The server side app for screensharing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "#screenshare"
+  ],
+  "author": "muhammad-bilal-7896",
+  "license": "ISC"
+}
